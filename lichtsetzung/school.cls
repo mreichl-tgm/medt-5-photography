@@ -64,7 +64,7 @@
 \makeatletter
 \renewcommand{\@maketitle}{
   \let \footnote \thanks~\\
-  {\LARGE\textbf{\@title}}
+  {\Huge\textbf{\@title}}
   \vspace{0.5em}~\\
   {\footnotesize\@author, \@date}
   \vskip 2em
